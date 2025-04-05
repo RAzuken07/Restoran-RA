@@ -1,6 +1,5 @@
-# Aplikasi Pemesanan (RMrazuk)
-sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada rumah makan,
-restoran, dan cafe atau sejenisnya.
+# Aplikasi Pemesanan (Rumah Makan)
+sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada rumah makan.
 
 ## pemilik/admin
     -Melihat Laporan
